@@ -1,0 +1,18 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# Directories
+/node_modules
+/dist
+/.cache
+/.idea
+
+# Files
+*.log
+*.swp
+*.bak
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+yarn-error.log
